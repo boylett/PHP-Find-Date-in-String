@@ -11,9 +11,12 @@ Function to find a date in a string using Regular Expression
 
 	// Return:
 	array(
-		'day'	=> 08,
-		'month'	=> 10,
-		'year'	=> 2006
+		'day'     => 08,
+		'month'   => 10,
+		'year'    => 2006,
+		'hours'   => 0,
+		'minutes' => 0,
+		'seconds' => 0
 	);
 
 
